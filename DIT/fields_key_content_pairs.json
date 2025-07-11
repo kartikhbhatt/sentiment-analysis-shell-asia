@@ -1,0 +1,24 @@
+[
+    {
+        "BillingAddress": "Kundalahalli Main Road, Ba 3rd Floor, Campus B,RMZ C Place of supply: 29 Karnataka Bangalore KA 560048 India",
+        "BillingAddressRecipient": "Shell India Markets Private Limited",
+        "CustomerName": "Shell India Markets Private Limited",
+        "CustomerTaxId": "29AAICS1404P1ZZ",
+        "DueDate": "08-MAY-2025",
+        "InvoiceDate": "24-MAR-2025",
+        "InvoiceId": "DAY110011022",
+        "InvoiceTotal": "\u20b9 48,92,237.52",
+        "PaymentTerm": "Net 45",
+        "PurchaseOrder": "4546032308",
+        "ServiceEndDate": "JUN12025",
+        "ServiceStartDate": "APR 2025",
+        "ShippingAddress": "Kundalahalli Main Road,Ba 3rd Floor, Campus B, RMZ C Place of supply: 29 Karnataka Bangalore KA 560048 India",
+        "ShippingAddressRecipient": "Shell India Markets Private Limited",
+        "VendorAddress": "360, bearing PID No: 101, 360, 15th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102 Bangalore, 560102 India",
+        "VendorAddressRecipient": "CAPILLARY TECHNOLOGIES INDIA LIMITED (Formerly Known as Capillary Technologies India Pvt Ltd)",
+        "VendorName": "Capillary Technologies India Limited",
+        "VendorTaxId": "29AAECK7007Q1ZY",
+        "SubTotal": "4,145,964.0",
+        "TotalTax": "746,273.52"
+    }
+]
